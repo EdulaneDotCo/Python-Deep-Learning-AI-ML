@@ -1,5 +1,5 @@
 
-![Comprehensive Python Training for AI and Machine Learning: 90 Sessions of Excellence](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720093216/AI-ML_tun8dz.png)
+![Comprehensive Python Training for AI and Machine Learning: 90 Sessions of Excellence](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720096858/AI-ML_dfzdgk.jpg)
 
 # Comprehensive Python Training for AI and Machine Learning: 90 Sessions of Excellence
 
