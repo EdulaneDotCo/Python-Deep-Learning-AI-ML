@@ -855,7 +855,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 **Objective:** Present final WhisperVision project.
 
 - **Topics:** Project presentation, feedback, discussion of learnings.
-- **Exercise:** Present final WhisperVision project to class, receive feedback.<a href="#"><img width="90px" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720251038/More-Exercises_nitx1m.png"></a>
+- **Exercise:** Present final WhisperVision project to class, receive feedback.<a href="#"><img width="90px" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720251826/More-Exercises-1_ehgv7q.png"></a>
 - **Session Preview:** WhisperVision presentation showcases skills; summarize findings, present using Python, TensorFlow, PyTorch, discuss learnings, receive feedback for continuous improvement.
 
 This detailed program combines foundational Python skills with advanced machine learning and deep learning techniques, ensuring a comprehensive understanding through practical exercises and real-world applications.
