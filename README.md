@@ -140,7 +140,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 
 - **Topics:** Python installation, IDEs, basic syntax, variables, data types.
 - **Exercise:** Write a Python program to print "Hello, World!" and perform basic arithmetic operations.<a href="#"><img alt="More Exercises" title="More Exercises" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
-- **Session Preview:** Setting up Python environment is crucial; IDEs like PyCharm offer robust features for development.<a href="#"><img alt="Begin Session" title="Begin Session" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
+- **Session Preview:** Setting up Python environment is crucial; IDEs like PyCharm offer robust features for development.<a href="./Session_01_Introduction_to_Python/"><img alt="Begin Session" title="Begin Session" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 
 ### Session 2: Control Structures <a href="#"><img alt="Watch this session over YouTube" title="Watch this session over YouTube - Coming Soon" width="18" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720266330/YT-Watch_zrvgxn.png"></a>
 
