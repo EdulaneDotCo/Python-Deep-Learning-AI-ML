@@ -860,7 +860,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Session Preview:** WhisperVision presentation showcases skills; summarize findings, present using Python, TensorFlow, PyTorch, discuss learnings, receive feedback for continuous improvement.<a href="#"><img alt="Begin Session" title="Begin Session" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 
 </br>
-<center><a href="#"><img alt="More Exercises" title="More Exercises" width="250" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></center>
+<div align=center><a href="#"><img alt="YouTube Session" title="YouTube Session" width="300" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
 
 ---
 This detailed program combines foundational Python skills with advanced machine learning and deep learning techniques, ensuring a comprehensive understanding through practical exercises and real-world applications.
