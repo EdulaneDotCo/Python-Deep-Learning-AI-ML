@@ -849,15 +849,20 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Emerging AI technologies, AI research trends, impact on society.
 - **Exercise:** Write research report on future trends in AI.
 - **Session Preview:** AI drives technological advancements; analyze emerging trends, impact on society using Python, TensorFlow, PyTorch.
+- **Exercise:** Present final WhisperVision project to class, receive feedback.
 
-###  Session 90: Final Project Presentation
-
+---
+###  Session 90: Final Project Presentation  
 **Objective:** Present final WhisperVision project.
 
 - **Topics:** Project presentation, feedback, discussion of learnings.
-- **Exercise:** Present final WhisperVision project to class, receive feedback.<a href="#"><img alt="More Exercises" title="More Exercises" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png" style="position: relative;top: 7px;margin-left: 9px;"></a>
-- **Session Preview:** WhisperVision presentation showcases skills; summarize findings, present using Python, TensorFlow, PyTorch, discuss learnings, receive feedback for continuous improvement.<a href="#"><img alt="More Exercises" title="More Exercises" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png" style="position: relative;top: 7px;margin-left: 9px;"></a>
+- **Exercise:** Present final WhisperVision project to class, receive feedback.<a href="#"><img alt="More Exercises" title="More Exercises" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
+- **Session Preview:** WhisperVision presentation showcases skills; summarize findings, present using Python, TensorFlow, PyTorch, discuss learnings, receive feedback for continuous improvement.<a href="#"><img alt="Begin Session" title="Begin Session" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 
+</br>
+<center><a href="#"><img alt="More Exercises" title="More Exercises" width="250" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></center>
+
+---
 This detailed program combines foundational Python skills with advanced machine learning and deep learning techniques, ensuring a comprehensive understanding through practical exercises and real-world applications.
 
 -----
