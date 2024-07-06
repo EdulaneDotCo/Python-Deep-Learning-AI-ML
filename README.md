@@ -141,11 +141,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Python installation, IDEs, basic syntax, variables, data types.
 - **Exercise:** Write a Python program to print "Hello, World!" and perform basic arithmetic operations.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Setting up Python environment is crucial; IDEs like PyCharm offer robust features for development.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
 <br/>
 
 ### Session 2: Control Structures
@@ -155,12 +150,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** if, elif, else statements, for and while loops, break and continue.
 - **Exercise:** Write a program to find the factorial of a number using loops.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Control structures determine flow; understanding loop control flow aids in efficient program execution.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
 <br/>
-
 
 ### Session 3: Functions
 
@@ -170,13 +160,11 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Exercise:** Create a function to check if a number is prime.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Functions encapsulate logic; using parameters and return values enhances code reusability and readability.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
 
 ---
 
 ## Week 2
+
 ### Session 4: Data Structures - Lists and Tuples
 
 **Objective:** Learn about lists and tuples for storing collections of data.
@@ -184,11 +172,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Creating, accessing, modifying lists and tuples, list comprehensions.
 - **Exercise:** Write a program to perform matrix addition.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Lists and tuples are fundamental data structures; list comprehensions offer concise ways to manipulate data.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 5: Data Structures - Dictionaries and Sets
 
@@ -197,11 +181,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Creating, accessing, modifying dictionaries and sets, dictionary comprehensions.
 - **Exercise:** Write a program to count the frequency of each word in a string.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Dictionaries are key-value pairs; sets ensure uniqueness of elements, useful in many algorithms.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 6: Working with Strings
 
@@ -210,10 +190,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** String operations, slicing, formatting, methods.
 - **Exercise:** Write a program to reverse a string and check if it is a palindrome.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Strings are immutable; slicing and methods like split() and join() aid in efficient string handling.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
 
 ---
 
@@ -226,11 +202,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** File operations (open, read, write, close), context managers.
 - **Exercise:** Write a program to read a text file and count the number of lines.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** File handling ensures data persistence; context managers (with statement) manage resources efficiently.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 8: Error Handling
 
@@ -239,11 +211,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** try, except, else, finally, raising exceptions.
 - **Exercise:** Write a program to handle division by zero error.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Exception handling prevents program crashes; raise custom exceptions to provide meaningful error messages.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 9: Modules and Packages
 
@@ -252,11 +220,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Importing modules, creating your own modules, Python Standard Library.
 - **Exercise:** Create a module with functions for basic mathematical operations.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Modules organize code; leverage Python's Standard Library for extensive functionality.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 10: Introduction to Object-Oriented Programming (OOP)
 
@@ -265,11 +229,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Classes, objects, methods, attributes.
 - **Exercise:** Create a class to represent a bank account and implement deposit and withdrawal methods.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** OOP enhances code structure; classes encapsulate data and behavior, promoting modularity and reusability.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 # Weeks 4-6: Advanced Python
@@ -283,11 +242,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Inheritance, method overriding, polymorphism.
 - **Exercise:** Create a base class Shape and derive classes Circle and Rectangle with area methods.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Inheritance promotes code reuse; polymorphism allows objects of different classes to be treated uniformly.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 12: OOP - Encapsulation and Abstraction
 
@@ -296,11 +251,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Private and protected members, property decorators, abstract classes.
 - **Exercise:** Implement a class with private attributes and provide getters and setters.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Encapsulation restricts access to data; abstraction hides implementation details, focusing on interface.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 13: Iterators and Generators
 
@@ -309,11 +260,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Iterators, \_\_iter\_\_, \_\_next\_\_, generators, yield.
 - **Exercise:** Write a generator function to generate Fibonacci numbers up to a given limit.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Iterators simplify traversal; generators generate values lazily, conserving memory and improving performance.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 5
@@ -325,11 +271,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Function decorators, class decorators, @property.
 - **Exercise:** Create a decorator to measure the execution time of a function.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Decorators add functionality to functions; use @staticmethod and @classmethod to define static and class methods.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 15: Context Managers
 
@@ -338,11 +280,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** with statement, creating custom context managers.
 - **Exercise:** Implement a context manager to handle file operations.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Context managers ensure resource cleanup; \_\_enter\_\_ and \_\_exit\_\_ methods define context manager behavior.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 16: Regular Expressions
 
@@ -351,11 +289,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** re module, common patterns, match, search, findall, sub.
 - **Exercise:** Write a program to validate email addresses using regular expressions.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Regular expressions match patterns in strings; compile regex patterns for efficiency in repeated searches.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 6
@@ -367,11 +300,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** datetime module, formatting dates, time arithmetic.
 - **Exercise:** Write a program to calculate the number of days between two dates.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Dates and times facilitate temporal calculations; use timedelta for date arithmetic.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 18: Logging
 
@@ -380,11 +309,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** logging module, basic configuration, log levels, handlers.
 - **Exercise:** Implement logging in a sample application to record key events.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Logging provides visibility into program behavior; configure loggers, handlers, and formatters for comprehensive logging.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 19: Multithreading
 
@@ -393,11 +318,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** threading module, creating and managing threads, thread synchronization.
 - **Exercise:** Write a program to download multiple web pages concurrently.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Multithreading improves concurrency; use locks (Lock and RLock) for thread synchronization to prevent data corruption.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 20: Multiprocessing
 
@@ -406,11 +327,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** multiprocessing module, creating processes, process synchronization.
 - **Exercise:** Write a program to calculate the sum of numbers in a large list using multiple processes.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Multiprocessing utilizes multiple CPU cores; Pool class simplifies process management and data sharing.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 # Weeks 7-9: Python for Data Analysis
@@ -424,11 +340,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Arrays, array operations, indexing, slicing, reshaping.
 - **Exercise:** Create a NumPy array and perform basic arithmetic operations.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** NumPy arrays facilitate efficient numerical operations; use broadcasting for element-wise operations on arrays.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 22: Advanced NumPy
 
@@ -437,11 +349,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Broadcasting, vectorization, linear algebra operations, random number generation.
 - **Exercise:** Solve a system of linear equations using NumPy.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** NumPy's vectorized operations improve performance; leverage NumPy's linalg module for linear algebra computations.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 23: Introduction to Pandas
 
@@ -450,11 +358,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** DataFrames, Series, reading/writing data, indexing, selecting data.
 - **Exercise:** Load a CSV file into a DataFrame and perform basic data analysis.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Pandas simplifies data manipulation; use iloc and loc for integer and label-based indexing, respectively.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 8
@@ -466,11 +369,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Handling missing data, data transformation, merging, concatenation.
 - **Exercise:** Clean a messy dataset and prepare it for analysis.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Data cleaning ensures data quality; use fillna, dropna, and apply for missing data handling and transformation.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 25: Data Visualization with Matplotlib
 
@@ -479,11 +378,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Basic plots, customization, subplots, histograms, scatter plots.
 - **Exercise:** Create various plots to visualize a dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Matplotlib offers extensive customization; use plt.xlabel, plt.title, and plt.legend for labels, titles, and legends in plots.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 26: Advanced Data Visualization with Seaborn
 
@@ -491,12 +386,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 
 - **Topics:** Statistical plots, aesthetics, themes, pair plots, heatmaps.
 - **Exercise:** Create a heatmap to visualize the correlation between variables in a dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
-- **Session Preview:** Seaborn simplifies complex visualizations; sns.pairplot, sns.heatmap, and sns.set\_theme enhance visualization aesthetics.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
+- **Session Preview:** Seaborn simplifies complex visualizations; sns.pairplot, sns.heatmap, and sns.set_theme enhance visualization aesthetics.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 ---
 
 ## Week 9
@@ -507,12 +397,8 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 
 - **Topics:** Date/time indexing, resampling, rolling windows, seasonal decomposition.
 - **Exercise:** Analyze and plot trends in a time series dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
-- **Session Preview:** Time series analysis requires date/time indexing; use resample, rolling, and seasonal\_decompose for time series decomposition.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+- **Session Preview:** Time series analysis requires date/time indexing; use resample, rolling, and seasonal_decompose for time series decomposition.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
+<br/>
 
 ### Session 28: Introduction to SQL and SQLite
 
@@ -521,24 +407,16 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** SQL syntax, querying databases, creating tables, CRUD operations.
 - **Exercise:** Perform CRUD operations on an SQLite database using Python.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** SQL is a standard language for database operations; SQLite is a lightweight, embedded database suitable for small-scale applications.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 29: Data Analysis with SQL and Pandas
 
 **Objective:** Understand how to combine SQL and Pandas for data analysis.
 
-- **Topics:** Using Pandas' read\_sql and to\_sql functions, querying databases, joining tables.
+- **Topics:** Using Pandas' read_sql and to_sql functions, querying databases, joining tables.
 - **Exercise:** Query data from an SQLite database and perform data analysis using Pandas.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
-- **Session Preview:** Pandas integrates seamlessly with SQL databases; use SQLAlchemy's create\_engine for database connection and merge for joining DataFrames.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+- **Session Preview:** Pandas integrates seamlessly with SQL databases; use SQLAlchemy's create_engine for database connection and merge for joining DataFrames.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
+<br/>
 
 ### Session 30: Statistical Analysis with SciPy
 
@@ -546,12 +424,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 
 - **Topics:** Statistical tests (t-test, ANOVA), distributions (normal, binomial, chi-square), hypothesis testing.
 - **Exercise:** Perform hypothesis testing on a dataset using SciPy.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
-- **Session Preview:** SciPy extends NumPy with statistical functions; use ttest\_ind, f\_oneway, and chi2\_contingency for hypothesis testing and statistical analysis.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
+- **Session Preview:** SciPy extends NumPy with statistical functions; use ttest_ind, f_oneway, and chi2_contingency for hypothesis testing and statistical analysis.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 ---
 
 # Weeks 10-12: Machine Learning Fundamentals
@@ -565,11 +438,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Supervised vs. unsupervised learning, types of machine learning algorithms.
 - **Exercise:** Train a simple linear regression model on a dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Machine learning automates predictive tasks; use scikit-learn's LinearRegression for regression tasks.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 32: Linear Regression
 
@@ -578,11 +447,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Simple vs. multiple linear regression, assumptions, evaluation metrics (R-squared, MSE).
 - **Exercise:** Implement linear regression to predict housing prices based on features.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Linear regression assumes linear relationships; evaluate model performance using R-squared and mean squared error (MSE).<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 11
@@ -594,11 +458,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Logistic function, odds ratio, decision boundary, evaluation metrics (accuracy, precision, recall).
 - **Exercise:** Implement logistic regression to predict the likelihood of customer churn.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Logistic regression models probabilities; use confusion matrix, accuracy, precision, recall for model evaluation.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 34: Decision Trees and Random Forests
 
@@ -607,11 +467,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Decision tree construction, splitting criteria, random forest algorithm, feature importance.
 - **Exercise:** Build a random forest model to classify iris flower species.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Decision trees capture non-linear relationships; ensemble methods improve generalization and handle overfitting.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 35: Support Vector Machines (SVM)
 
@@ -620,11 +476,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Maximum margin, kernel trick, hyperplane, support vectors.
 - **Exercise:** Implement SVM to classify handwritten digits using the MNIST dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** SVM finds optimal hyperplanes; use kernels (linear, polynomial, RBF) for non-linear classification tasks.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 36: K-Nearest Neighbors (KNN)
 
@@ -633,11 +485,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Distance metrics (Euclidean, Manhattan), KNN algorithm, tuning K.
 - **Exercise:** Implement KNN to classify iris flower species based on features.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** KNN relies on instance-based learning; choose K using cross-validation for optimal performance.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 12
@@ -649,11 +496,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Eigenvalues, eigenvectors, variance explained, PCA algorithm.
 - **Exercise:** Perform PCA on a high-dimensional dataset and visualize the results.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** PCA reduces feature space; interpret principal components for understanding data variance and dimensionality reduction.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 38: Feature Engineering
 
@@ -662,11 +505,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Feature scaling, encoding categorical variables, feature selection.
 - **Exercise:** Preprocess a dataset by applying feature engineering techniques.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Feature engineering enhances model performance; scale features (min-max, standardization), use one-hot encoding for categorical variables.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 39: Model Evaluation and Selection
 
@@ -675,11 +514,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Cross-validation, hyperparameter tuning (GridSearchCV, RandomizedSearchCV).
 - **Exercise:** Perform hyperparameter tuning on a machine learning model using cross-validation.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Model evaluation ensures robustness; use k-fold cross-validation for unbiased performance estimation and hyperparameter tuning.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 40: Pipeline and Model Deployment
 
@@ -688,11 +523,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Pipelines, joblib, Flask, Docker.
 - **Exercise:** Create a machine learning pipeline and deploy a model using Flask.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Pipelines streamline workflows; deploy models as REST APIs using Flask, containerize applications with Docker for scalability and reproducibility.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 # Weeks 13-15: Deep Learning Fundamentals
@@ -706,11 +536,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Perceptrons, activation functions, forward and backward propagation.
 - **Exercise:** Implement a simple neural network from scratch using NumPy.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Neural networks mimic the brain's neurons; implement gradient descent for training and backpropagation for error propagation.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 42: Deep Learning with TensorFlow and Keras
 
@@ -719,11 +545,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Overview of TensorFlow, Keras API, building neural networks.
 - **Exercise:** Build and train a neural network using TensorFlow and Keras.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** TensorFlow and Keras simplify deep learning; use high-level APIs (Sequential, Functional) for building and training neural networks.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 43: Convolutional Neural Networks (CNNs)
 
@@ -732,11 +554,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Convolutional layers, pooling layers, architectures (LeNet, AlexNet, VGG).
 - **Exercise:** Implement a CNN for image classification on the MNIST dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** CNNs capture spatial dependencies; understand convolutional layers, pooling operations, and popular architectures for image classification.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 14
@@ -748,11 +565,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** RNN theory, LSTM, GRU, applications in time series and NLP.
 - **Exercise:** Implement an LSTM network for sentiment analysis on text data.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** RNNs handle sequential data; use LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) for modeling temporal dependencies.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 45: Transfer Learning
 
@@ -761,11 +574,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Transfer learning theory, fine-tuning, popular pre-trained models (VGG, ResNet).
 - **Exercise:** Fine-tune a pre-trained CNN on a new image dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Transfer learning speeds up model training; adapt pre-trained models using feature extraction and fine-tuning techniques for specific tasks.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 46: Generative Adversarial Networks (GANs)
 
@@ -774,11 +583,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** GAN theory, generator and discriminator networks, applications.
 - **Exercise:** Implement a GAN to generate synthetic images.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** GANs generate realistic data; understand generator and discriminator networks, training adversarial networks for image generation.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 15
@@ -790,11 +594,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Autoencoder theory, applications in dimensionality reduction and anomaly detection.
 - **Exercise:** Implement an autoencoder for anomaly detection in a dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Autoencoders compress data; reconstruct input with minimal loss, apply for dimensionality reduction and anomaly detection tasks.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 48: Reinforcement Learning Basics
 
@@ -803,11 +603,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** RL theory, Markov Decision Processes (MDP), Q-learning.
 - **Exercise:** Implement a simple Q-learning algorithm for a gridworld environment.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Reinforcement learning learns from rewards; model RL problems as MDPs, use Q-learning for policy optimization in dynamic environments.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 49: Advanced Reinforcement Learning
 
@@ -816,11 +612,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Deep Q-Networks (DQN), policy gradients, actor-critic methods.
 - **Exercise:** Implement a DQN for a simple game environment.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Advanced RL improves learning efficiency; use DQN for handling high-dimensional state spaces, implement actor-critic methods for policy optimization.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 50: Introduction to Natural Language Processing (NLP)
 
@@ -829,11 +621,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Text preprocessing, tokenization, bag of words, TF-IDF.
 - **Exercise:** Implement a text classification model using TF-IDF and logistic regression.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** NLP analyzes and interprets human language; preprocess text data, convert to numerical representations (bag-of-words, TF-IDF), classify using ML algorithms.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 # Weeks 16-18: Advanced Machine Learning and Deep Learning
@@ -847,11 +634,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** RNNs, LSTMs, GRUs for NLP, applications in language modeling and translation.
 - **Exercise:** Build and train an LSTM model for text generation.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Sequence models capture sequential dependencies; use RNN variants (LSTM, GRU) for NLP tasks like text generation and sentiment analysis.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 52: Attention Mechanisms
 
@@ -860,11 +643,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Self-attention, multi-head attention, Transformer architecture.
 - **Exercise:** Implement a Transformer model for machine translation.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Attention mechanisms focus on relevant parts of input; understand self-attention, multi-head attention in Transformer architecture for NLP tasks.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 53: Advanced Computer Vision with CNNs
 
@@ -873,11 +652,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Residual networks (ResNet), object detection, image segmentation.
 - **Exercise:** Implement a Faster R-CNN for object detection in images.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Advanced CNNs improve accuracy; use ResNet for deeper architectures, implement object detection and segmentation tasks using CNNs.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 17
@@ -889,11 +663,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** K-means clustering, hierarchical clustering, DBSCAN.
 - **Exercise:** Cluster a dataset using K-means and visualize the clusters.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Clustering groups data points; use K-means for centroid-based clustering, DBSCAN for density-based clustering, visualize clusters for insights.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 55: Unsupervised Learning - Dimensionality Reduction
 
@@ -902,11 +672,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** PCA for dimensionality reduction, t-SNE for visualization.
 - **Exercise:** Apply t-SNE to visualize high-dimensional data clusters.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Dimensionality reduction simplifies data; use PCA for feature extraction, t-SNE for visualization of high-dimensional data clusters.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 56: Advanced Deployment Techniques
 
@@ -915,11 +681,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Dockerization, model serving with TensorFlow Serving, Kubernetes.
 - **Exercise:** Deploy a machine learning model using Docker and Kubernetes.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Advanced deployment ensures scalability; containerize models with Docker, orchestrate using Kubernetes, serve models with TensorFlow Serving for production environments.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 18
@@ -931,11 +692,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** ARIMA, SARIMA, Prophet, LSTM for time series forecasting.
 - **Exercise:** Build and evaluate a time series forecasting model using ARIMA.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Time series models predict future trends; use ARIMA for stationary data, LSTM for sequence modeling in time series forecasting.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 58: Anomaly Detection in Time Series Data
 
@@ -944,11 +701,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Statistical methods, machine learning approaches, LSTM-based approaches.
 - **Exercise:** Detect anomalies in a time series dataset using statistical and ML-based methods.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Anomaly detection identifies unusual patterns; apply statistical methods (mean, std dev), ML-based approaches (Isolation Forest), LSTM for sequence-based anomaly detection.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 59: Recommender Systems
 
@@ -957,11 +710,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Collaborative filtering, content-based filtering, hybrid approaches.
 - **Exercise:** Build a movie recommender system using collaborative filtering.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Recommender systems personalize recommendations; use collaborative filtering (user-item matrix), content-based filtering (item features), hybrid approaches for diverse recommendations.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 60: Advanced Natural Language Processing (NLP)
 
@@ -970,11 +719,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Word embeddings (Word2Vec, GloVe), BERT, sentiment analysis, text generation.
 - **Exercise:** Fine-tune BERT for sentiment analysis on a custom dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Advanced NLP models understand context; use Word2Vec, GloVe for word embeddings, BERT for language understanding tasks like sentiment analysis and text generation.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 # Weeks 19-24: WhisperVision Project Development
@@ -988,11 +732,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Project planning, data collection, preprocessing, model selection, evaluation.
 - **Exercise:** Implement end-to-end machine learning or deep learning project on a real-world dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** WhisperVision project applies learned skills; plan, execute, and present project using Python, machine learning, or deep learning techniques for practical problem-solving.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 20-21
@@ -1004,11 +743,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Hyperparameter tuning, model optimization techniques.
 - **Exercise:** Perform hyperparameter tuning and optimization on models for WhisperVision project.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Model tuning enhances performance; grid search, random search for hyperparameter tuning, optimize models for WhisperVision project using Python libraries.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 22
@@ -1020,11 +754,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Model serialization, Flask basics, setting up a web server.
 - **Exercise:** Serialize trained model and set up basic Flask web server for deployment.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Model serialization ensures portability; Flask web server setup, REST API creation for model deployment using Python, Flask for scalable applications.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 23
@@ -1036,11 +765,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Creating REST APIs, handling requests, Docker basics.
 - **Exercise:** Create REST APIs for models and deploy using Docker.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** REST APIs serve model predictions; Docker containerization for scalable deployment, handle requests using Python, Flask, Docker for production-ready applications.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 24
@@ -1052,11 +776,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Monitoring model performance, handling model drift, updating models.
 - **Exercise:** Implement monitoring system for deployed model.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Model monitoring ensures reliability; handle model drift, update models using Python, monitor performance, and maintain models for continuous improvement.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 # Weeks 25-30: Specialization and Advanced Topics
@@ -1070,11 +789,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Advanced transformer architectures, applications in summarization and question answering.
 - **Exercise:** Implement transformer-based model for text summarization.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Transformers improve NLP performance; understand transformer architectures (BERT, GPT) for advanced NLP tasks like summarization and QA using Python, Hugging Face Transformers.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 26
@@ -1086,11 +800,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** StyleGAN, BigGAN, applications in high-resolution image generation.
 - **Exercise:** Implement StyleGAN model for generating high-resolution images.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** GANs generate realistic images; apply StyleGAN, BigGAN for high-resolution image generation using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 27-28
@@ -1102,11 +811,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Medical image analysis, disease prediction, healthcare data challenges.
 - **Exercise:** Implement deep learning model for disease prediction using healthcare data.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Deep learning improves healthcare outcomes; analyze medical images, predict diseases using Python, TensorFlow, PyTorch for healthcare applications.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 84: Autonomous Systems and Robotics
 
@@ -1115,11 +820,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Robot perception, control systems, reinforcement learning in robotics.
 - **Exercise:** Implement reinforcement learning algorithm for simple robotic control task.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Deep learning enhances robotic capabilities; perceive environment, control robots, apply RL for autonomous systems using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 29
@@ -1131,11 +831,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Model interpretability, SHAP, LIME, XAI applications.
 - **Exercise:** Apply XAI techniques to interpret complex deep learning model.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** XAI enhances transparency; interpret models using SHAP, LIME for explainable AI using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 86: Ethics in AI
 
@@ -1144,11 +840,6 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Bias in AI, fairness, accountability, transparency, ethical guidelines.
 - **Exercise:** Analyze case study on ethical issues in AI, propose solutions.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** Ethics ensure responsible AI use; mitigate bias, ensure fairness, accountability in AI development using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 ## Week 30
@@ -1160,11 +851,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Algorithmic trading, credit scoring, fraud detection.
 - **Exercise:** Implement machine learning model for credit scoring.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** AI enhances financial decision-making; apply ML for trading, credit scoring, fraud detection using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 88: AI for Social Good
 
@@ -1173,11 +860,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** AI in education, healthcare, environmental monitoring, humanitarian efforts.
 - **Exercise:** Develop AI solution for social good problem.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** AI addresses societal challenges; apply AI in education, healthcare, environmental monitoring for social good using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
+<br/>
 
 ### Session 89: Future Trends in AI
 
@@ -1186,24 +869,15 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 - **Topics:** Emerging AI technologies, AI research trends, impact on society.
 - **Exercise:** Write research report on future trends in AI.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** AI drives technological advancements; analyze emerging trends, impact on society using Python, TensorFlow, PyTorch.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
+<br/>
 
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-</br>
-
-### Session 90: Final Project Presentation  
+### Session 90: Final Project Presentation
 
 **Objective:** Present final WhisperVision project.
 
 - **Topics:** Project presentation, feedback, discussion of learnings.
-- **Exercise:** Present final WhisperVision project to class, receive feedback.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a><a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
+- **Exercise:** Present final WhisperVision project to class, receive feedback.<a href="#"><img alt="More Exercises" title="More Exercises" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
 - **Session Preview:** WhisperVision presentation showcases skills; summarize findings, present using Python, TensorFlow, PyTorch, discuss learnings, receive feedback for continuous improvement.<a href="#"><img alt="Begin Session" title="Begin Session" width="80" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
-
-<div align=center>
-<h4>Watch this session over YouTube</h4>
-<a href="#"><img alt="YouTube Session" title="YouTube Session" width="230" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720259674/YouTube_hvibbp.png"></a></div>
-
 ---
 
 This detailed program combines foundational Python skills with advanced machine learning and deep learning techniques, ensuring a comprehensive understanding through practical exercises and real-world applications.
