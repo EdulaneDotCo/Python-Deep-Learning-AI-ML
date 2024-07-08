@@ -700,7 +700,7 @@ Explore the boundaries of Python as you journey through 90 comprehensive session
 
 - **Topics:** Project planning, data collection, preprocessing, model selection, evaluation.
 - **Exercise:** Implement end-to-end machine learning or deep learning project on a real-world dataset.<a href="#"><img alt="More Exercises" title="More Exercises" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255450/More_usuhfd.png"></a>
-- **Session Preview:** WhisperVision project applies learned skills; plan, execute, and present project using Python, machine learning, or deep learning techniques for practical problem-solving.<a href="#"><img alt="Begin Session" title="Begin Session" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
+- **Session Preview:** WhisperVision project applies learned skills; plan, execute, and present project using Python, machine learning, or deep learning techniques for practical problem-solving.<a href="./Session_61_WhisperVision_Project_Todo_List/"><img alt="Begin Session" title="Begin Session" width="100" src="https://res.cloudinary.com/dj2j9slz5/image/upload/v1720255895/Begin_ombhxj.png"></a>
 
 ---
 
